@@ -1,3 +1,19 @@
-big {
+.big {
     color: blue;
+}
+
+.b326{
+    border: 1px solid green;
+}
+
+#b325{
+    border: 1px solid green;
+}
+
+p {    
+    background-color: yellow;
+}
+
+div{
+    font-weight: bold;
 }
