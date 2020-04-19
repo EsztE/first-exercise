@@ -13,6 +13,9 @@
 p {    
     background-color: yellow;
 }
+p:hover {
+    background-color: tomato;
+}
 
 div{
     font-weight: bold;
